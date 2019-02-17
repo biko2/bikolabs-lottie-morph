@@ -11,7 +11,7 @@ $(function() {
         renderer: 'svg',
         loop: false,
         autoplay: false,
-        path: 'data.json'
+        path: 'morph.json'
       });
       $('#logo-letra-b').click(function(ev){
           ev.preventDefault();
